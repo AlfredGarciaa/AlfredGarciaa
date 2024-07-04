@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+### 💫 Sobre mi:
 
 <h1 align="center">Hola 👋, Soy Alfred Garcia</h1>
 <h3 align="center">Desarrollador fullstack en Bolivia.</h3>
@@ -21,141 +21,40 @@
                     
 - ⚡ Habilidades Personales: **Me considero empático, responsable y comunicativo**
 
-## Conéctate conmigo:
-<p align="left">
-<a href="www.linkedin.com/in/alfred-brandon-garcia-arias-34660a24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfred brandon garcia arias" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61555770567833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfred garcia" height="30" width="40" /></a>
-</p>
+## 🌐 Conéctate conmigo:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555770567833)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-brandon-garcia-arias-34660a24b/) 
 
-## Tecnologias y Herramientas utilizadas
-<p align="left">
-  <!-- Lenguajes de programación -->
-  <strong>Lenguajes de programación:</strong>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Diseño UI/UX -->
-  <strong>Diseño UI/UX:</strong>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  
-  <!-- Desarrollo front-end -->
-  <strong>Desarrollo front-end:</strong>
-  <a href="https://v17.angular.io/docs" target="_blank" rel="noreferrer"> 
-    <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo-1200-628.png?sfvrsn=bf64b1ee_3" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> 
-  </a>
-
-  <!-- Desarrollo back-end -->
-  <strong>Desarrollo de back-end:</strong>
-  <a href="https://laravel.com/docs/11.x/readme" target="_blank" rel="noreferrer"> 
-    <img src="https://okitup.com/wp-content/uploads/2019/10/laravel.webp" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/> 
-  </a>
-  <a href="https://getcomposer.org/doc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/> 
-  </a>
-
-  <!-- Gestión de base de datos -->
-  <strong>Gestión de base de datos:</strong>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-
-
-  <!-- DevOps e implementación -->
-  <strong>DevOps e implementación:</strong>
-  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  
-  <!-- Pruebas y garantía de calidad (QA) -->
-  <strong>Pruebas y garantía de calidad (QA):</strong>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cypress.svg" alt="cypress" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Seguridad -->
-  <strong>Seguridad:</strong>
-  <a href="https://owasp.org/site-documentation/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCH8nPy_aYODkUQQhZqaOArDdDfqUzfaRiA&s" alt="owasp" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Gestión de proyectos y colaboración -->
-  <strong>Gestión de proyectos y colaboración:</strong>
-  <a href="https://help.clickup.com/hc/en-us/articles/6328174371351-Intro-to-Docs" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/07e36b4aa0691f3015886624395e083395e528c5/svg/c/clickup.svg" alt="clickup" width="40" height="40"/> 
-  </a>
-  <a href="https://trello.com/es/guide" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="40" height="40"/> 
-  </a>
-  
-  <!-- Herramientas y utilidades -->
-  <strong>Herramientas y utilidades:</strong>
-  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com/develop" target="_blank" rel="noreferrer"> 
-    <img src="https://i.blogs.es/6e0b73/android-studio/1366_2000.png" alt="androidstudio" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.insomnia.rest/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/insomnia/insomnia-plain-wordmark.svg" alt="insomnia" width="40" height="40"/> 
-  </a>
-  
-  <!-- CI/CD y automatización -->
-  <strong>CI/CD y automatización:</strong>
-  <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-
-  <!-- Diseño y arquitectura de software -->
-  <strong>Diseño y arquitectura de software:</strong>
-
-  <!-- Control de versiones y colaboración -->
-  <strong>Control de versiones y colaboración:</strong>
-  <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="40" height="40"/> 
-  </a> 
-
-  <!-- Otras áreas relevantes -->
-  <strong>Otras áreas relevantes:</strong>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-</p>
+## 💻 Pila de tecnología
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=AlfredGarciaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
